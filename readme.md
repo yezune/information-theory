@@ -4,6 +4,7 @@
 ####1. [Data Compression Explained](http://www.e-booksdirectory.com/details.php?ebook=9238)
 - by Matt Mahoney - mattmahoney.net , 2013
 데이터 압축 소프트웨어를 배울수 있는 전자책. 몇 가지 사전 프로그래밍 기술과 약간의 수학 능력이 필요합니다. 
+This book is for the reader who wants to understand how data compression works, or who wants to write data compression software. Prior programming ability and some math skills will be needed. This book is intended to be self contained.
 
 ####2. [A primer on information theory, with applications to neuroscience](http://www.e-booksdirectory.com/details.php?ebook=8958)	
 - by Felix Effenberger - arXiv , 2013	
