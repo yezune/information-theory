@@ -93,7 +93,7 @@ This book is supposed to give a short introduction to the fundamentals of inform
 
 ####23. [A Mathematical Theory of Communication](http://www.e-booksdirectory.com/details.php?ebook=1121)
 - by Claude Shannon , 1948	
-섀넌은 이전에 다른 곳에서 발견된 결과를 제시하고 오늘날 많은 통신의 수학적 한계의 주제에 최고 참조대상. 
+The person who wrote this paper is the father of modern communication theory, Claude Shannon. In this seminal work Shannon presents results that were previously found nowhere else, and today many professors refer to it as the best exposition still on the subject of the mathematical limits on communication (such as bandwidth). Further, it laid the modern foundations for what is now coined Information Theory. Classic work. 
 
 ####24. [Information Theory, Inference, and Learning Algorithms](http://www.e-booksdirectory.com/details.php?ebook=21)
 - by David J. C. MacKay - Cambridge University Press , 2003
