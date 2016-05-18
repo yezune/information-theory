@@ -63,8 +63,9 @@ This book is supposed to give a short introduction to the fundamentals of inform
 네트워크와 최적의 코딩 및 프로토콜의 정보 흐름에 대한 기본적인 제한 정보 이론.
 
 ####16. [Information-Theoretic Incompleteness](http://www.e-booksdirectory.com/details.php?ebook=3747)	
-- by Gregory J. Chaitin - World Scientic , 199	
-이 수학의 자서전. 그레고리 Chaitin 그의 작품의 기술적 인 조사와 그 의미의 비 기술적 인 논의를 제공한다.기술 조사는 LISP 프로그램의 크기에 대한 자세한 설명을 포함하여 많은 새로운 결과가 포함되어 있습니다. 
+- by Gregory J. Chaitin - World Scientic , 1992
+이 수학 자서전에서, 그레고리 체이튼의 작업들에 대한 기술적 연구 및 그 의미를  비기술적인 토론을 제공한다. 기술적 연구는 체이튼의 가장 기본적인 정보이론적 불완전성 이론의 새로운 버전과 리스프 프로그램을 이용한 논의를 포함하고 있다. 
+
 
 ####17. [A Short Course in Information Theory](http://www.e-booksdirectory.com/details.php?ebook=3610)
 - by David J. C. MacKay - University of Cambridge , 1995
