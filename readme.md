@@ -92,10 +92,10 @@ This book is supposed to give a short introduction to the fundamentals of inform
 - by Gregory. J. Chaitin - Cambridge University Press , 2003
 컴퓨터 프로그램의 크기에 따라 정보 이론적 접근 방법을 사용하여, 괴델의 불완전성 정리 가능한 버전을 제공한다. 저자는 가능한 가장 직접적인 방식으로 자료를 제시하기 위해 노력했다. 
 
-####23. [A Mathematical Theory of Communication](http://www.e-booksdirectory.com/details.php?ebook=1121)
+####23. [A Mathematical Theory of Communication](http://www.e-booksdirectory.com/details.php?ebook=1121)[[PDF]](https://github.com/yezune/information-theory/raw/master/books/23.A%20Mathematical%20Theory%20of%20Communication.pdf)
+
 - by Claude Shannon , 1948	
 The person who wrote this paper is the father of modern communication theory, Claude Shannon. In this seminal work Shannon presents results that were previously found nowhere else, and today many professors refer to it as the best exposition still on the subject of the mathematical limits on communication (such as bandwidth). Further, it laid the modern foundations for what is now coined Information Theory. Classic work. 
 
-####24. [Information Theory, Inference, and Learning Algorithms](http://www.e-booksdirectory.com/details.php?ebook=21) [[PDF]](https://github.com/yezune/information-theory/raw/master/books/23.A%20Mathematical%20Theory%20of%20Communication.pdf)
-- by David J. C. MacKay - Cambridge University Press , 2003
+####24. [Information Theory, Inference, and Learning Algorithms](http://www.e-booksdirectory.com/details.php?ebook=21) - by David J. C. MacKay - Cambridge University Press , 2003
 정보 이론, 베이지안 추론과 학습 알고리즘, 학부생 및 대학원생의 학생을위한 유용하고 연구자를위한 참고로에 교과서. 전기 공학 및 컴퓨터 과학 분야의 학생들을위한 필수 독서.
